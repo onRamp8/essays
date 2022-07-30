@@ -1,4 +1,4 @@
-# Beware of your role. How to stay relevant in a constantly changing world
+# How to stay relevant in a constantly changing world
 
 The world changes fast, its hard to keep up, especially over a sustained 
 period of time. I became a productive member of society from university 
@@ -11,14 +11,13 @@ change in industry has outpaced what the education system can provide. And
 even if the education system gets us there, it doesn’t keep us there. 
 Without continual learning we are at risk to both market and technological 
 change. These changes can render us less effective at best and jobless at 
-worst. It’s scary. 
+worst. 
 
 The most popular approach to this problem is to go through periodic 
 training such as boot camps and certifications (from MOOCs for example). 
 Whatever form that takes I believe it requires more effort and time than 
 can be sustained over a career. This approach also models someone’s growth 
-in terms of discrete points. (Insert graphic of market needs vs skills, 
-with step function at every training). During these periods of training we 
+in terms of discrete points. During these periods of training we 
 still need income, which means the training comes at the expense of our 
 nights and weekends. It is more sustainable to use solutions that rely on 
 continuous change instead of periodic discrete changes.
@@ -31,8 +30,8 @@ weekly.
 3. Break down the tasks of the roles you want to be in. Or your same role 
 in a company you want to be in. Or ask someone you admire to break down 
 some of their tasks
-4. Start rotating in tasks from the list in #2 into your queue and 
-rotating out the low value tasks
+4. Start rotating in tasks from the list in #3 into your queue and 
+rotating out the low value tasks from #2.
 (I use Jira to store and analyze the tasks but excel or other tools could 
 probably work as well.)
 
@@ -56,9 +55,9 @@ be rotating new challenging high value tasks in and other tasks out.
 The problem with the current work structure is we define our jobs and our 
 identities by the role we perform. For example when you meet someone new 
 the first question that is asked is what do you do for a living. The 
-response is your job title. I’m a doctor, senior engineer, electrician, 
+response is your job title. I’m a doctor, engineer, electrician, 
 marketer. These labels get tied to our identity which strengthens the tie 
-to the perception of the role. The role names don’t change much and that 
+to the perception of the role. The role names don’t change and that 
 lack of change can subtlety and destructively affect our perception. So 
 don't use titles. Remove both titles and roles from your mental model of 
 what you do, it will allow your perception of who you are to become fluid 
