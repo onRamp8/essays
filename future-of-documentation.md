@@ -1,4 +1,4 @@
-# Future of documentation. Finally making it fun.
+# Future of documentation. Finally it's fun.
 For most of my career I didn't really enjoy reading or writing documentation.
 It constantly went out of date. Javadocs, markdown and doc generators helped
 but images and diagrams were a pain. Then [plant UML](https://plantuml.com/sequence-diagram)
