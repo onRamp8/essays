@@ -44,7 +44,7 @@ Add the connections between components
         self.add_connection_right(world, mkd)
 ```
 After all the components and connections are added the code will create a display
-on screen like this [exchange architecture](resources/future-of-documentation/exchange-architecture.jpg)
+on screen like this ![exchange architecture](resources/future-of-documentation/exchange-architecture.jpg)
 
 Now we can add the voice to text code to do the walk through for us
 ```python
