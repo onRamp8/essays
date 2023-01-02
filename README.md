@@ -1,5 +1,5 @@
 # A collection of essays for engineers
-Experiments in writing and content creation by [Steve Froehlich](https://www.linkedin.com/in/steve-froehlich-8071a125)
+Experiments in writing and content creation by Steve Froehlich
 
 Essays:
 
