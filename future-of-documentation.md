@@ -1,4 +1,4 @@
-# AI generated videos with voice instead of documentation.
+# Plant UML for video generation, but in python
 For most of my career I didn't enjoy reading or writing documentation.
 It constantly went out of date. Javadocs, markdown and generators helped
 but images and diagrams were a pain. Then [plant UML](https://plantuml.com/sequence-diagram)
